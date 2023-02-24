@@ -31,6 +31,10 @@ qrcode
 numpy
 imageio
 
+Скорее всего у вас не заработает model_small, если это так то:
+1. Удалите содержимое папки
+2. Перейдите на https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip
+3. Вставте содержимое архива в папку model_small
 
 Для запуска: 
 1. Установить выше перечисленные модули.
